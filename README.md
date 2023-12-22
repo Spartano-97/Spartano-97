@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a software developer and aspiring hacker💻☠️
+  I'm a software developer and aspiring hacker 💻☠️
 </h3>
 
 <div align="center">
@@ -20,7 +20,12 @@
 <hr/>
 
 <h2 align="center">🛠️ - Skillset - 🧰</h2>
-
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github" />
+  </a>
+</div>
 <!--
 ### Hi there 👋
 
