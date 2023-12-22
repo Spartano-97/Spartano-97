@@ -1,6 +1,8 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EEB33&background=43FF3700&random=false&width=435&lines=Hi%2C+I'm+Spartano!;It's+Hacking+time!)](https://git.io/typing-svg)
 
 <!--
+### Hi there 👋
+
 **Spartano-97/Spartano-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
