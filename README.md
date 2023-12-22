@@ -4,6 +4,12 @@
   </a>
 </h1>
 
+<h3 align="center" color="3EEB33">
+  I'm a software developer and aspiring hacker
+</h3>
+
+<hr/>
+
 <!--
 ### Hi there 👋
 
