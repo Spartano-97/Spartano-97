@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a software developer and aspiring hacker
+  I'm a software developer and aspiring hacker💻☠️
 </h3>
 
 <div align="center">
@@ -18,6 +18,8 @@
 </div>
 
 <hr/>
+
+<h2 align="center">🛠️ - Skillset - 🧰</h2>
 
 <!--
 ### Hi there 👋
