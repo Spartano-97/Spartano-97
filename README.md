@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EEB33&background=43FF3700&random=false&width=435&lines=Hi%2C+I'm+Spartano!;It's+Hacking+time!)](https://git.io/typing-svg)
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3EEB33&background=43FF3700&random=false&width=435&lines=Hi%2C+I'm+Spartano!;It's+Hacking+time!)](https://git.io/typing-svg)
+</div>
 
 <!--
 ### Hi there 👋
