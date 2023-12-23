@@ -29,7 +29,7 @@
   </a>
 
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=THM&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" target="_blank" />
   </a>
    
 </div>
