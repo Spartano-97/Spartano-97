@@ -10,9 +10,9 @@
 
 <div align="center">
   
- 🔭 I’m currently working on **AISpamDetector**
+ 🔭 I’m currently working on: **AISpamDetector**
  
- 🌱 I’m currently learning **Pentesting - Python - Django - Docker**
+ 🌱 I’m currently learning: **Pentesting - Python - Django - Docker**
  
 </div>
 
