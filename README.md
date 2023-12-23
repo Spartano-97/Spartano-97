@@ -7,10 +7,10 @@
 <h3 align="center">
   I'm a software developer and aspiring offensive pentester 💻☠️
 </h3>
-<p>
-  - 🔭 I’m currently working on: AISpamDetector.
-  - 🌱 I’m currently learning: Pentesting, Python, Django.
-</p>
+<div align="center">
+  - 🔭 I’m currently working on: **AISpamDetector**
+  - 🌱 I’m currently learning: **Pentesting - Python - Django**
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emanuele-savonitti-dev/" target="_blank">
