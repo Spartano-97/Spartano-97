@@ -7,9 +7,13 @@
 <h3 align="center">
   I'm a software developer and aspiring offensive pentester 💻☠️
 </h3>
+
 <div align="center">
-  - 🔭 I’m currently working on: **AISpamDetector**
-  - 🌱 I’m currently learning: **Pentesting - Python - Django**
+  
+ 🔭 I’m currently working on **AISpamDetector**
+ 
+ 🌱 I’m currently learning **Pentesting - Python - Django - Docker**
+ 
 </div>
 
 <div align="center">
