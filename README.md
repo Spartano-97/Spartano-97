@@ -22,12 +22,12 @@
 <h2 align="center">🛠️ - Skillset - 🧰</h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,cs,dotnet" />    
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,py,cs,dotnet,mysql" />    
   </a>
 </div>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,git,github" />   
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim,vscode,wordpress,git,github" />   
   </a>
 </div>
 
