@@ -4,6 +4,8 @@
   </a>
 </h1>
 
+<hr/>
+
 <h3 align="center">
   I'm a software developer and aspiring offensive pentester 💻☠️
 </h3>
@@ -32,9 +34,6 @@
 </div>
 
 <hr/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-
 <!--
 ### Hi there 👋
 
