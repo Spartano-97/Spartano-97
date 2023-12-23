@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  I'm a software developer and aspiring hacker 💻☠️
+  I'm a software developer and aspiring offensive pentester 💻☠️
 </h3>
 
 <div align="center">
