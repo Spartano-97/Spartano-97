@@ -6,6 +6,10 @@
   </a>
 </h1>
 
+<div align="center">  
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM5bmNhazc3bmU0aDVzNDJjNHRiYjRvNTg4anh0NW9zd3d0MjJ3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hYj1wQaGXdEYsfi2S1/giphy.gif" width="500" alt="HighSeas">
+</div>
+
 <hr/>
 
 <h2 align="center">🛠️ - Skillset - 🧰</h2>
