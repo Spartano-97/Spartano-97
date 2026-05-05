@@ -6,41 +6,13 @@
   </a>
 </h1>
 
-<h3 align="center">
-  I'm a software developer and aspiring offensive pentester 💻☠️
-</h3>
-
-<div align="center">
-  
- 🔭 I’m currently working on: **AISpamDetector**
- 
- 🌱 I’m currently learning: **Pentesting - Python - Django - Docker**
- 
-</div>
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/emanuele-savonitti-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
-  <a href="https://app.hackthebox.com/profile/1736938" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" target="_blank" />
-  </a>
-
-  <a href="https://tryhackme.com/p/LoSpartano" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" target="_blank" />
-  </a>
-   
-</div>
-
 <hr/>
 
 <h2 align="center">🛠️ - Skillset - 🧰</h2>
 <div align="center">
   
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,py,cs,dotnet,mysql" />    
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,py,cs,dotnet" />    
   </a>
   
 </div>
@@ -48,24 +20,7 @@
 <div align="center">
   
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vim,vscode,wordpress,git,github" />   
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,vscode,mysql,git,github" />   
   </a>
   
 </div>
-
-<!--
-### Hi there 👋
-
-**Spartano-97/Spartano-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
